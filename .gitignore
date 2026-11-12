@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+build/
+cmake-build-*/
